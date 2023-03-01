@@ -4,7 +4,7 @@ public class demo {
 
 	public static void main(String[] args) {
 		System.out.println("hello guys this is demo code");
-		// TODO Auto-generated method stub
+		// this is added in web
 
 	}
 
